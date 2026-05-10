@@ -1,6 +1,10 @@
 # CompTIA Security+ SY0-701 Hands-On Labs
 
-This repository provides a complete set of **36 step-by-step labs** aligned to the [CompTIA Security+ SY0-701 exam objectives](CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf), built for the WSQ CompTIA Certified Security+ Training course offered by **Tertiary Infotech Academy Pte Ltd**.
+This repository provides a complete set of **36 step-by-step labs** aligned to the [CompTIA Security+ SY0-701 exam objectives](CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf).
+
+These labs are the official hands-on companion for the **WSQ — CompTIA Certified Security+ Training** course (Course Code: **TGS-2023039181**) offered by **Tertiary Infotech Academy Pte Ltd**.
+
+📘 **Register here:** https://www.tertiarycourses.com.sg/wsq-comptia-security-certification-prep.html
 
 ## Platform
 
