@@ -109,10 +109,8 @@ Killercoda playground (free, no signup): https://killercoda.com/playgrounds/scen
 ### B1. Cryptography & Encoding
 | Tool | Type | Link |
 |------|------|------|
-| **CyberChef** ⭐ used in many labs | Web | https://gchq.github.io/CyberChef/ |
-| md5hashing.net | Web | https://md5hashing.net |
-| emn178 SHA-2 / HMAC | Web | 
- |
+| **Cryptography Toolkit** ⭐ used in many labs | Web | https://alfredang.github.io/cryptography-toolkit/ |
+| **Hash Generator** ⭐ used in many labs | Web | https://alfredang.github.io/hashgenerator/ |
 | OnlineHashCrack identifier | Web | https://www.onlinehashcrack.com/hash-identification.php |
 | CrackStation | Web (look-up) | https://crackstation.net |
 | Travis Tidwell RSA generator | Web | https://travistidwell.com/jsencrypt/demo/ |
@@ -228,7 +226,7 @@ Killercoda playground (free, no signup): https://killercoda.com/playgrounds/scen
 | Volatility 3 | Memory forensics | https://github.com/volatilityfoundation/volatility3 |
 | FTK Imager (free) | Win GUI | https://www.exterro.com/forensic-toolkit |
 | Wireshark | All OSes | https://www.wireshark.org |
-| CyberChef | Web | https://gchq.github.io/CyberChef/ |
+| Cryptography Toolkit | Web | https://alfredang.github.io/cryptography-toolkit/ |
 
 ### B12. Pentest / Red Team Practice Ranges (legal)
 | Range | Type | Link |

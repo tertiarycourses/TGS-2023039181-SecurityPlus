@@ -81,7 +81,8 @@ A complete set of **36 step-by-step labs** aligned to the [CompTIA Security+ SY0
 
 All tooling is **100% free** (open source, freeware, or free tier with no time limit). The bulk runs inside the disposable Killercoda VM via `apt` or a single binary download. A few labs also use free **online** services:
 
-- **CyberChef** — encode/decode/hash in the browser (Labs 2, 3, 4)
+- **Cryptography Toolkit** — encrypt/decrypt in the browser (Labs 2, 4) — https://alfredang.github.io/cryptography-toolkit/
+- **Hash Generator** — SHA/MD5/HMAC in the browser (Labs 2, 3) — https://alfredang.github.io/hashgenerator/
 - **FIRST CVSS calculator** — score vulnerabilities (Lab 31)
 - **VirusTotal / Hybrid Analysis / ANY.RUN** — multi-engine malware sandboxes (Lab 8)
 - **SSL Labs / Mozilla Observatory** — TLS posture (Labs 12, 19)

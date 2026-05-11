@@ -94,7 +94,8 @@ Every `sudo` and `su` is logged with timestamp and user — the **accounting** l
 
 ## Free online tools
 
-- **CyberChef** — encode/decode/hash in the browser: https://gchq.github.io/CyberChef/
+- **Hash Generator** — SHA-256 in the browser: https://alfredang.github.io/hashgenerator/
+- **Cryptography Toolkit** — encode/decode/encrypt: https://alfredang.github.io/cryptography-toolkit/
 - **OnlineHashCrack hash identifier** — https://www.onlinehashcrack.com/hash-identification.php
 - **AAA explainer (Cloudflare)** — https://www.cloudflare.com/learning/access-management/what-is-aaa/
 

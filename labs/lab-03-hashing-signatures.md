@@ -76,9 +76,8 @@ You should see `Verification Failure`.
 
 ## Free online tools
 
-- **CyberChef** — SHA-2, HMAC, bcrypt, AES in the browser: https://gchq.github.io/CyberChef/
-- **md5hashing.net** — quick hash generator: https://md5hashing.net
-- **emn178 SHA online** — https://emn178.github.io/online-tools/sha256.html
+- **Hash Generator** — SHA-2, MD5, HMAC in the browser: https://alfredang.github.io/hashgenerator/
+- **Cryptography Toolkit** — AES, RSA, signing/verification: https://alfredang.github.io/cryptography-toolkit/
 - **Online RSA Key Generator** — https://travistidwell.com/jsencrypt/demo/
 
 ---
